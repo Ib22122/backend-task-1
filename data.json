@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "ibrahim1",
+        "lname": "alsalim1",
+        "age": 24,
+        "city": "aleppo"
+    },
+    {
+        "id": 3,
+        "fname": "ibrahim3",
+        "lname": "alsalim3",
+        "age": 24,
+        "city": "aleppo"
+    },
+    {
+        "id": 5,
+        "fname": "ibrahim5",
+        "lname": "alsalim5",
+        "age": 24,
+        "city": "aleppo"
+    },
+    {
+        "id": 7,
+        "fname": "ibrahim7",
+        "lname": "alsalim7",
+        "age": 24,
+        "city": "aleppo"
+    },
+    {
+        "id": 9,
+        "fname": "ibrahim9",
+        "lname": "alsalim9",
+        "age": 24,
+        "city": "aleppo"
+    },
+    {
+        "id": 10,
+        "fname": "ibrahim10",
+        "lname": "alsalim10",
+        "age": 24,
+        "city": "aleppo"
+    }
+]
